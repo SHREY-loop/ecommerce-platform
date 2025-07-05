@@ -29,8 +29,8 @@ View the live demo: [[Your Portfolio Link]/projects/ecommerce-platform/](http://
 3. Or host it on any web server
 
 ## Project Structure
-ecommerce-platform/
-├── index.html # Main HTML file
-├── style.css # Styles and animations
-├── script.js # JavaScript functionality
-└── README.md
+ecommerce-platform
+1. index.html # Main HTML file
+2. style.css # Styles and animations
+3. script.js # JavaScript functionality
+4. README.md
