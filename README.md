@@ -16,7 +16,7 @@ A modern e-commerce platform demo showcasing product display, shopping cart func
 - Font Awesome Icons
 
 ## Live Demo
-View the live demo: [http://127.0.0.1:5500/#projects/ecommerce-platform/](http://127.0.0.1:5500/projects/ecommerce-platform/index.html)
+View the live demo: [[Your Portfolio Link]/projects/ecommerce-platform/](http://127.0.0.1:5500/projects/ecommerce-platform/index.html)
 
 ## Screenshots
 - Product grid with hover effects
@@ -33,14 +33,4 @@ ecommerce-platform/
 ├── index.html # Main HTML file
 ├── style.css # Styles and animations
 ├── script.js # JavaScript functionality
-└── README.md # This file
-
-
-
-
-
-1. Clone the repository
-2. Open `index.html` in your browser
-3. Or host it on any web server
-```
-
+└── README.md
